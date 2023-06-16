@@ -1,0 +1,7 @@
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\VoxtoWavConverter\bin\Debug\VoxtoWavConverter.exe.config
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\VoxtoWavConverter\bin\Debug\VoxtoWavConverter.exe
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\VoxtoWavConverter\bin\Debug\VoxtoWavConverter.pdb
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\VoxtoWavConverter\obj\Debug\VoxtoWavConverter.csproj.CoreCompileInputs.cache
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\VoxtoWavConverter\obj\Debug\VoxtoWavConverter.exe
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\VoxtoWavConverter\obj\Debug\VoxtoWavConverter.pdb
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\VoxtoWavConverter\obj\Debug\VoxtoWavConverter.csproj.AssemblyReference.cache
