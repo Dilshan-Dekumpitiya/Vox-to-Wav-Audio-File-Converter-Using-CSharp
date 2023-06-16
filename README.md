@@ -5,5 +5,5 @@
 ### Steps
 #### 1) Install sox to programfile(x86) --> [sox app](https://sourceforge.net/projects/sox/)
 #### Sox app can convert audio files to other audio file types 
-#### 2) create batch file to execute sox convert vox to wav using cmd(commands) -->Create or edit using Notepadd++ or VS Code
-#### 3) run program and your wav file will show in your destination folder
+#### 2) Create batch file to execute sox convert vox to wav using cmd(commands) -->Create or edit using Notepadd++ or VS Code
+#### 3) Run program and your wav file will show in your destination folder
